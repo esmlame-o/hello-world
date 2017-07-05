@@ -10,3 +10,8 @@ third-party data about those locations and various ways to browse the content.
 <p>1. Open index_2.html in a browser.</p>
 <p>2. Click on a marker or name from the list or use the filter box to view a bakery listing.</p>
 
+<h3>Attributions:</h3>
+<p>Foursquare API</p>
+<p>Google Maps API</p>
+<p>Udacity Forums</p>
+
